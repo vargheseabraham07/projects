@@ -1,5 +1,5 @@
 # projects
-BBC Text CLassification
+BBC Text Classification
 
 # Prerequisits
 python 3
@@ -24,5 +24,5 @@ nltk.download('omw-1.4') <br />
 Once all dependencies are downloaded, run each cells in the file. The data file imported is the main\data.csv from the project.
 
 # Author
-Abraham Varghese <br />
+Abraham V Varghese <br />
 Github:@vargheseabraham07
